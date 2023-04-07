@@ -1,0 +1,15 @@
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\bin\Debug\net6.0\Calculator_firstProject_05April.cs.exe
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\bin\Debug\net6.0\Calculator_firstProject_05April.cs.deps.json
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\bin\Debug\net6.0\Calculator_firstProject_05April.cs.runtimeconfig.json
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\bin\Debug\net6.0\Calculator_firstProject_05April.cs.dll
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\bin\Debug\net6.0\Calculator_firstProject_05April.cs.pdb
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\Calculator_firstProject_05April.cs.csproj.AssemblyReference.cache
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\Calculator_firstProject_05April.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\Calculator_firstProject_05April.cs.AssemblyInfoInputs.cache
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\Calculator_firstProject_05April.cs.AssemblyInfo.cs
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\Calculator_firstProject_05April.cs.csproj.CoreCompileInputs.cache
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\Calculator_firstProject_05April.cs.dll
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\refint\Calculator_firstProject_05April.cs.dll
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\Calculator_firstProject_05April.cs.pdb
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\Calculator_firstProject_05April.cs.genruntimeconfig.cache
+C:\Users\Maham\Desktop\C# Homeworks\Calculator_firstProject_05April.cs\Calculator_firstProject_05April.cs\obj\Debug\net6.0\ref\Calculator_firstProject_05April.cs.dll
